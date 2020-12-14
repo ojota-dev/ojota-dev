@@ -1,4 +1,4 @@
-## Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Alan.
+## Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Jota.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ojota-dev&theme=vue-dark&show_icons=true)
 
