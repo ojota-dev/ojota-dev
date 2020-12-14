@@ -4,7 +4,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&color=black&link=https://www.linkedin.com/in/joão-paulo-95b7451bb/)](https://www.linkedin.com/in/joão-paulo-95b7451bb/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&color=black&link=mailto:httpsjotaa@gmail.com)](mailto:httpsjotaa@gmail.com)
-[![alandev2.github.io Badge](https://img.shields.io/badge/-ojota-dev.github.io-6633cc?style=flat-square&logo=DTube&logoColor=white&color=black&link=https://ojota-dev.github.io)](https://ojota-dev.github.io)
+[![ojota-dev.github.io Badge](https://img.shields.io/badge/-ojota-dev.github.io-6633cc?style=flat-square&logo=DTube&logoColor=white&color=black&link=https://ojota-dev.github.io)](https://ojota-dev.github.io)
 
 <img src="https://files.readme.io/8c11911-senior-front-end-developer-openings-1.gif" width="300" align="right">
 
